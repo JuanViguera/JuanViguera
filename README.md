@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a PhD student at AstraZeneca and Chalmers University of Technology (Gothenburg, Sweden) working on AI for drug design.
+
 <!--
 **JuanViguera/JuanViguera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
